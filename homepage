@@ -1,0 +1,109 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Fotografias</title>
+<style>
+		
+		#pagina { margin: 0 auto; background-color: whitesmoke }
+		
+		#cabecalho {background-color: black; padding-bottom: 50px}
+		#esquerda, #direita {background-color: whitesmoke; padding-top: 50px }
+	    #centro {background-color: whitesmoke;padding-bottom: 500px}
+		#rodape {background-color: black; padding-bottom: 15px; padding-top: 15px; margin-top:50px }
+		
+		#esquerda {width:50%; float: left}
+		
+		#direita {width:50%; float: right}
+		
+		#button1 {width: 100px; background-color: white; margin-top: }
+		#button2 {width: 100px; background-color: white; margin-top: }
+		#button3 {width: 100px; background-color: white; margin-top: }
+		#button4 {width: 100px; background-color: white; margin-top: }
+	
+	    #link1{text-decoration: none; color: black }
+	    #link2{text-decoration: none; color: black }
+	    #link3{text-decoration: none; color: black }
+	    #link4{text-decoration: none; color: black }
+	
+	.avatar {
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 10px;
+		margin-left: 10px;}
+	
+	    #lateralesquerdo{margin-top: 10px; align-content: center}
+	    #lateraldireito{margin-top: 10px; align-content: center}
+	
+		
+		
+		
+		
+		
+	</style>
+
+
+</head>
+
+<body>
+	
+  <div id="pagina">
+	  
+	  
+	  
+	  
+	<div id="cabecalho">
+		<img src="imagens/logo-fotografia-1-730x548.jpg" alt="Avatar" class="avatar" width="20px" float="left">
+		
+	 <center> <header align="center">
+		 
+		 
+		  
+		  <button id="button1"><a id="link1" href="anapaula_fernandes_exe24.html">Homepage</a></button>
+		  <button id="button2"><a id="link2" href="Galeria.html">Galeria</a></button>
+		  <button id="button3"><a id="link3" href="Biografia.html">Biografia</a></button>
+		  <button id="button4"><a id="link4" href="Contactos.html">Contactos</a></button>
+		 </header></center>
+		
+		 </div>
+	<div id="esquerda" align="center"><center></center></div>
+	  
+	  
+	  
+	<div id="direita" align="center"><center></center></div>
+	  
+	 
+	    
+	    <center><table width="100%" height="100%" border="1" bordercolor="whitesmoke" bgcolor="whitesmoke" cellpadding="3">
+	      <tbody align="center">
+	        <tr>
+	          <td><img src="imagens/DSC_0578.jpg" width="400px" height="600" alt="Flower"/></td>
+				<td><p><font color="#132A1D" face="lucida calligraphy"><strong><big>Olá, sou Ana, sejam bem vindos ao meu mundo:</big></strong></font></p>
+				  
+				  <p><font color="#132A1D" face="lucida calligraphy" ><big>
+					  
+					  <p>Street Photography</p>
+					  <p>Corporate Events</p>
+					  <p>Urban and Nature Landscapes</p>
+					  <p>Wildlife</p>
+				  
+				  
+				  
+					  </big></font></p>
+              </td>
+	         
+            </tr>
+          </tbody>
+        </table>
+    </center>
+	  
+	<div id="rodape" align="center"><p><font color="#FFFFFF">&copy; 2020 Todos os Direitos Reservados.</font></p></div>
+	  
+	  
+	  
+	  
+</div>
+</body>
+</html>
