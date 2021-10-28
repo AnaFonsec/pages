@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Biografia</title>
+</head>
+	
+	<style>
+		
+		#pagina { margin: 0 auto; background-color: whitesmoke }
+		#cabecalho {background-color: black; padding-bottom: 50px}
+		#esquerda {width:50%; padding-bottom: 162px; background-color:whitesmoke; float: left}
+		#centro {width:50%; padding-bottom: 130px; background-color:whitesmoke;float: right}
+		#rodape {background-color: black; padding-bottom: 15px; padding-top: 15px; margin-top:15px }
+		
+		
+		#button1 {width: 100px; background-color: white; margin-top: 50px}
+		#button2 {width: 100px; background-color: white; margin-top: 50px}
+		#button3 {width: 100px; background-color: white; margin-top: 50px}
+		#button4 {width: 100px; background-color: white; margin-top: 50px}
+		
+		#link1{text-decoration: none; color: black }
+	    #link2{text-decoration: none; color: black }
+	    #link3{text-decoration: none; color: black }
+	    #link4{text-decoration: none; color: black }
+		
+		.avatar {
+  vertical-align: middle;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  margin-top: 80px;
+	
+	
+	</style>
+
+<body>
+	
+	<div id="pagina"  >
+	
+	<div id="cabecalho" align="center" style="align-content: center">
+		
+	 <center> <header align="center">
+		  
+		  <button id="button1"><a id="link1" href="anapaula_fernandes_exe24.html">Homepage</a></button>
+		  <button id="button2"><a id="link2" href="Galeria.html">Galeria</a></button>
+		  <button id="button3"><a id="link3" href="Biografia.html">Biografia</a></button>
+		  <button id="button4"><a id="link4" href="Contactos.html">Contactos</a></button>
+		 </header></center>
+		
+		
+	  </div>
+		
+		
+		<div id="esquerda" align="center" float="left"><img src="imagens/DSC_378223.jpg" alt="Avatar" class="avatar"></div>
+	    <div id="centro" align="center" float="right">
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+		
+			<p><font color="#434040"> Nasci e me criei no mundo da fotografia, e logo percebi que poderia fazer a diferença na vida das pessoas com esta forma de expressão.</font> </p>
+
+
+
+<p><font color="#434040"> Assumi a fotografia não só como profissão, mas como estilo de vida. Com 5 anos de profissão  tenho uma forma bastante singular de ver o mundo, na qual procuro extrair sempre o mais simples e verdadeiro de cada momento.</font></p>
+
+
+
+<p><font color="#434040"> Sou amante e colecionadora de moedas antigas, moro em Pinhais e tenho meu estúdio em uma pequena cidade, onde me inspiro em meio ás árvores de pinos pra levar uma vida leve e cheia de histórias.</font></p>
+		
+		</div>
+		<div id="rodape" align="center">
+		  <p>&nbsp;</p>
+		  <p><font color="#FFFFFF">&copy; 2020 Todos os Direitos Reservados.</font></p>
+		</div>
+		
+		
+	</div>
+	
+	
+	
+</body>
+</html>
